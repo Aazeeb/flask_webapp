@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-  return "Hello there. How are you?!"
+  return "We are trying to use DevOps tools"
